@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "Instrument Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/InstrumentSans-Regular.woff2") format("woff2");
+}
 @import url("https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap");
 @tailwind base;
 @tailwind components;
